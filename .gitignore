@@ -1,0 +1,10 @@
+.idea
+opencv
+.venv
+dog.mp4
+highway.mp4
+person.jpg
+yolov3.cfg
+yolov3.txt
+person.mp4
+yolov3.weights
